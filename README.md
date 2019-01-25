@@ -9,7 +9,7 @@ Install this module with the [required plugins](https://github.com/eslint/rfcs/p
 ```
 $ npm install eslint eslint-config-react-app eslint-config-react-app-vd eslint-plugin-flowtype eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-var-spacing --save-dev
 
-$ yarn add eslint eslint-config-react-app eslint-config-react-app-vd eslint-plugin-flowtype eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-var-spacing --save
+$ yarn add eslint eslint-config-react-app eslint-config-react-app-vd eslint-plugin-flowtype eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-var-spacing -D
 ```
 
 ## Usage
