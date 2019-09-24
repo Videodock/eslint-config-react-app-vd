@@ -10,6 +10,15 @@
     }
   },
   "rules": {
+    "quotes": [
+      [
+        "error",
+        "single",
+        {
+          "allowTemplateLiterals": true
+        }
+      ]
+    ],
     "arrow-spacing": [
       "error",
       {
